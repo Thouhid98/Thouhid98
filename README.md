@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages and Libraries ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,firebase" />
@@ -29,10 +29,13 @@
   </div>
 </div>
 
-<h2>Stats</h2>
-<div style="display: flex;">
-  <div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thouhid98&theme=aura_dark" /></div>
-  <div ><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thouhid98&theme=blueberry"></div>
+<h2>⚡Stats⚡</h2>
+<div >
+  <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thouhid98&theme=aura_dark" /></div>
+  
+  <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thouhid98&theme=blueberry">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thouhid98&theme=blueberry&utcOffset=8">
+    </div>
 </div>
 
 
