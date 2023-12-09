@@ -1,8 +1,14 @@
-### Hi there 👋
+### Who I am ? 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Thouhid!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋+I+am+Thouhid!;&font=Righteous&size=35&center=true&vCenter=true&width=450&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <h3 align="center">A Passionate Front-End Web-Developer</h3>
+<p align="center">🔭 BSC in Computer Science From Metropolitan University Sylhet 🔭</p>
+<p align="center">Comfortable with React and Firebase and Open to Contribute to your organization</p>
+<p align="center">🌱 I’m currently learning **Node-Js**</p>
+
+
+
 <h2>⚡Connect With Me</h2>
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
