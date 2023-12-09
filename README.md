@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/ZG26534/header-banner-2.jpg">
 </div>
 
-### Who Am I ? 👋
+## Who Am I ? 👋
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋+I+am+Thouhid!;&font=Righteous&size=35&center=true&vCenter=true&width=450&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
