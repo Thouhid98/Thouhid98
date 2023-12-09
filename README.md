@@ -28,3 +28,12 @@
    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,figma,vscode,github" /><br>
   </div>
 </div>
+
+<h2>Stats</h2>
+<div style="display: flex;">
+  <div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thouhid98&theme=aura_dark" /></div>
+  <div ><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thouhid98&theme=blueberry"></div>
+</div>
+
+
+
