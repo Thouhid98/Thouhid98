@@ -11,7 +11,7 @@
 
 <h2>⚡Connect With Me</h2>
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="thouhidhussain98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
